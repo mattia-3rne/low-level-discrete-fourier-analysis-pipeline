@@ -144,6 +144,6 @@ This repository is structured as a 3-stage modular pipeline.
 
 * `signal_reconstruction.ipynb`: Reconstructing the signal using Inverse DFT.
 * `signal_generation.ipynb`: Generating synthetic noisy signals.
-* `sepctral_analysis.ipynb`: Performing DFT from scratch.
+* `spectral_analysis.ipynb`: Performing DFT from scratch.
 * `requirements.txt`: Python dependencies.
 * `README.md`: Project documentation.
