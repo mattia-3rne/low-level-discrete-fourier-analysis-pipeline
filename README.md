@@ -38,7 +38,7 @@ $$
 
 ### The Fourier Matrix as a Vandermonde Matrix
 
-The Fourier Matrix ($F$) is a specific instance of a **Vandermonde Matrix**. A general Vandermonde matrix $V$ is constructed from a sequence of values $\{v_0, v_1, \dots, v_{N-1}\}$ such that the entry in the $j$-th row and $k$-th column is the geometric progression term $v_j^k$:
+The Fourier Matrix is a specific instance of a **Vandermonde Matrix**. A general Vandermonde matrix $V$ is constructed from a sequence of values $\{v_0, v_1, \dots, v_{N-1}\}$ such that the entry in the $j$-th row and $k$-th column is the geometric progression term $v_j^k$:
 
 $$
 V = 
