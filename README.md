@@ -1,4 +1,4 @@
-# Low-Level Discrete Fourier Analysis Pipeline
+# Low-Level Discrete Fourier Transform Pipeline
 
 ## 📊 Project Overview
 
@@ -124,7 +124,7 @@ This repository is structured as a 3-stage modular pipeline.
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/mattia-3rne/low-level-discrete-fourier-analysis-pipeline.git
+    git clone https://github.com/mattia-3rne/low-level-discrete-fourier-transform-pipeline.git
     ```
 
 2.  **Install dependencies**:
